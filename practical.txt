@@ -1,2 +1,2 @@
-echo "This is a change on the feature branch." >> practical.txt
-
+Hello Git Practical
+This line was added on the feature branch.
